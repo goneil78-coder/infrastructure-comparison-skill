@@ -64,7 +64,7 @@ Replace the following placeholders throughout all files:
 
 | Placeholder | Replace With | Example |
 |-------------|--------------|---------|
-| `[YOUR_SYSTEM]` | Your AI infrastructure name | `CPain`, `MyAI`, `Jarvis` |
+| `[YOUR_SYSTEM]` | Your AI infrastructure name | `PAI`, `MyAI`, `Jarvis` |
 | `[SKILL_DIR]` | Your skill directory path | `~/.claude/`, `~/.ai/` |
 | `[YOUR_NAME]` | Your name | `Alice`, `Bob` |
 | `[AGENT_NAME]` | Your agent/voice name | `kai`, `assistant` |

@@ -120,7 +120,7 @@ cd ~/Projects/infrastructure-comparison-skill
 
 # 1. Check for personal references
 echo "Checking for personal references..."
-grep -ri "gordy\|cpain\|/home/gordyto\|gordyto" --exclude-dir=.git . | \
+grep -ri "yourname\|yoursystem\|/home/youruser" --exclude-dir=.git . | \
   grep -v "Claude Flow\|Claude Code" | \
   grep -v "example\|Example\|EXAMPLE" || \
   echo "✅ Clean"
