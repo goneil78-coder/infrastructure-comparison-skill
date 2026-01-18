@@ -29,22 +29,22 @@ The skill uses a systematic **7-phase analysis framework**:
 
 The skill includes 4 complementary workflows:
 
-### 1. CompareSystem (20-60 minutes)
+### 1. CompareSystem 
 Comprehensive 7-phase analysis producing detailed comparison reports with scored recommendations.
 
 **Use when:** You want deep analysis before making adoption decisions.
 
-### 2. QuickAssess (10-15 minutes)
+### 2. QuickAssess 
 Rapid go/no-go assessment to determine if deeper analysis is warranted.
 
 **Use when:** You need to quickly filter whether a system is worth investigating.
 
-### 3. ExtractPatterns (15-30 minutes)
+### 3. ExtractPatterns 
 Pattern identification and extraction workflow focusing on reusable architectural patterns.
 
 **Use when:** You want to understand specific patterns without full comparison.
 
-### 4. SynthesizeReport (10-15 minutes)
+### 4. SynthesizeReport 
 Generate polished comparison reports from analysis data.
 
 **Use when:** You need to document findings in a structured format.
